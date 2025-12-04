@@ -1,0 +1,11 @@
+[cartesia]
+name = "bulqit-keegan-agent"
+description = "Bulqit Keegan voice agent for homeowner follow-up calls"
+version = "1.0.0"
+
+[cartesia.server]
+port = 8000
+host = "0.0.0.0"
+
+[cartesia.environment]
+required_vars = ["GEMINI_API_KEY"]
