@@ -2,7 +2,7 @@
 
 Voice agent for homeowner follow-up calls about Bulqit services - coloring book recipients in Encino & Sherman Oaks.
 
-**Test Change:** Testing GitHub auto-deploy - timestamp: 2025-11-17 11:16 AM CST
+**Reorganized:** Clean structure - homeowner agent consolidated from PLEASE folder - 2025-12-04
 
 ## Customization
 
