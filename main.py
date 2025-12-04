@@ -69,3 +69,4 @@ if __name__ == "__main__":
     print(f"Gemini API Key Set: {bool(GEMINI_API_KEY)}")
     print("\n✓ Starting agent server...")
     uvicorn.run(fastapi_app, host="0.0.0.0", port=8000)
+
